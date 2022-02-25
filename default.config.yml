@@ -49,7 +49,6 @@ homebrew_installed_packages:
   - gifsicle
   - git
   - github/gh/gh
-  - go
   - podman
   - minikube
   - kubernetes-cli
@@ -73,6 +72,7 @@ homebrew_installed_packages:
   - wget
   - wrk
   - zsh-history-substring-search
+  - tmux
 
 homebrew_taps:
   - homebrew/core
